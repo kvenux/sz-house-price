@@ -9,7 +9,7 @@
 python3 grab.py
 ```
 
-根据目录列表，爬取所有楼盘项目备案价
+根据目录列表，爬取所有楼盘项目备案价，在目录property下
 
 ```bash
 python3 grab_single.py
